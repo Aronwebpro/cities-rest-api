@@ -1,0 +1,26 @@
+{
+  "name": "cities-rest-api",
+  "version": "1.0.0",
+  "description": "Rest API to get all cities of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aronwebpro/cities-rest-api.git"
+  },
+  "author": "Aaron Webpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aronwebpro/cities-rest-api/issues"
+  },
+  "homepage": "https://github.com/Aronwebpro/cities-rest-api#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "morgan": "^1.9.1"
+  }
+}
