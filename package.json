@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Aronwebpro/cities-rest-api#readme",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "express": "^4.17.3",
     "http-errors": "^1.7.3",
     "morgan": "^1.9.1",
